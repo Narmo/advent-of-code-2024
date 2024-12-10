@@ -13,3 +13,4 @@ delivered by JetBrains.
 |  3  | ⭐ <br/> Time 03:27:25 <br/>Rank 33310<br/> Score 0 | ⭐ <br/> Time 04:22:59 <br/>Rank 30764<br/> Score 0 |       |
 |  4  | ⭐ <br/> Time 05:15:22 <br/>Rank 32710<br/> Score 0 | ⭐ <br/> Time 05:28:32 <br/>Rank 27746<br/> Score 0 |       |
 |  5  | ⭐ <br/> Time 04:27:14 <br/>Rank 27883<br/> Score 0 | ⭐ <br/> Time 04:35:13 <br/>Rank 21198<br/> Score 0 |       |
+|  6  | ⭐ <br/> Time 03:25:06 <br/>Rank 21007<br/> Score 0 |   ⭐ <br/> Time --:--:-- <br/>Rank -<br/> Score 0   |       |
