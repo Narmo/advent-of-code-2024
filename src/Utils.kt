@@ -51,3 +51,22 @@ fun <T> List<T>.pairs(): List<Pair<T, T>> {
 
 	return pairs
 }
+
+fun <T> List<T>.combinations(size: Int): List<List<T>> {
+	if (size == 1) {
+		return this.map { listOf(it) }
+	}
+
+	val combinations = mutableListOf<List<T>>()
+
+	for (i in 0 until this.size - size + 1) {
+		val head = this[i]
+		val tailCombinations = this.drop(i + 1).combinations(size - 1)
+
+		for (tailCombination in tailCombinations) {
+			combinations.add(listOf(head) + tailCombination)
+		}
+	}
+
+	return combinations
+}

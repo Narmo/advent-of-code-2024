@@ -15,3 +15,4 @@ delivered by JetBrains.
 |  5  | ⭐ <br/> Time 04:27:14 <br/>Rank 27883<br/> Score 0 | ⭐ <br/> Time 04:35:13 <br/>Rank 21198<br/> Score 0 |                                                              |
 |  6  | ⭐ <br/> Time 03:25:06 <br/>Rank 21007<br/> Score 0 |   ⭐ <br/> Time --:--:-- <br/>Rank -<br/> Score 0   |                                                              |
 |  7  |   ⭐ <br/> Time>24h <br/>Rank 65830<br/> Score 0    |   ⭐ <br/> Time >24h <br/>Rank 62634<br/> Score 0   | [Concatenation](https://en.wikipedia.org/wiki/Concatenation) |
+|  8  |   ⭐ <br/> Time>24h <br/>Rank 55046<br/> Score 0    |   ⭐ <br/> Time >24h <br/>Rank 52757<br/> Score 0   |                                                              |
