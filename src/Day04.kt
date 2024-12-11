@@ -1,9 +1,3 @@
-typealias Point = Pair<Int, Int>
-
-operator fun Point.plus(other: Point): Point {
-	return this.first + other.first to this.second + other.second
-}
-
 fun main() {
 	fun nextPointOffset(currentPoint: Point, previousPoint: Point?): Point {
 		val (row, col) = currentPoint

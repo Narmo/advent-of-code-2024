@@ -70,3 +70,9 @@ fun <T> List<T>.combinations(size: Int): List<List<T>> {
 
 	return combinations
 }
+
+typealias Point = Pair<Int, Int>
+
+operator fun Point.plus(other: Point): Point {
+	return this.first + other.first to this.second + other.second
+}
